@@ -1,0 +1,14 @@
+2024/07/01-20:42:15.952 2d84 Reusing MANIFEST D:\opu_dev\projects\boilerplate-express.js\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/01-20:42:15.952 2d84 Recovering log #121
+2024/07/01-20:42:15.956 2d84 Reusing old log D:\opu_dev\projects\boilerplate-express.js\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000121.log 
+2024/07/01-20:42:15.956 2d84 Delete type=2 #119
+2024/07/01-20:42:16.505 2d84 Level-0 table #126: started
+2024/07/01-20:42:16.509 2d84 Level-0 table #126: 115579 bytes OK
+2024/07/01-20:42:16.510 2d84 Delete type=0 #121
+2024/07/01-20:42:16.510 2d84 Manual compaction at level-0 from '\x003\x00\x00\x00' @ 72057594037927935 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at '\x003\x00\x00\x05' @ 81839 : 1
+2024/07/01-20:42:16.510 2d84 Compacting 1@0 + 1@1 files
+2024/07/01-20:42:16.532 2d84 Generated table #127@0: 38398 keys, 710979 bytes
+2024/07/01-20:42:16.532 2d84 Compacted 1@0 + 1@1 files => 710979 bytes
+2024/07/01-20:42:16.533 2d84 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/01-20:42:16.533 2d84 Delete type=2 #126
+2024/07/01-20:42:16.533 2d84 Manual compaction at level-0 from '\x003\x00\x00\x05' @ 81839 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at (end)

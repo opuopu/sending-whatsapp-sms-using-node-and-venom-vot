@@ -1,0 +1,6 @@
+2024/07/01-20:43:00.947 1168 Reusing MANIFEST D:\opu_dev\projects\boilerplate-express.js\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2024/07/01-20:43:00.954 1168 Recovering log #3
+2024/07/01-20:43:00.954 1168 Reusing old log D:\opu_dev\projects\boilerplate-express.js\tokens\session-name\Default\Local Storage\leveldb/000003.log 
+2024/07/01-20:46:01.427 57d4 Level-0 table #5: started
+2024/07/01-20:46:01.439 57d4 Level-0 table #5: 15390 bytes OK
+2024/07/01-20:46:01.440 57d4 Delete type=0 #3
